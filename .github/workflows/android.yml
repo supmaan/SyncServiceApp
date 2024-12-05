@@ -57,7 +57,6 @@ jobs:
           - 29
           - 30
           - 31
-          - 34
         include:
           - os: ubuntu-latest
             arch: x86
